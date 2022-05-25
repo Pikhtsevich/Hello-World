@@ -1,0 +1,7 @@
+$ git config --global user.name "Vitali"
+
+$ git config --global user.email "pikhtsevich@gmail.com"
+
+$ git init
+
+$ git status
